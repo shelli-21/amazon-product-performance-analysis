@@ -1,5 +1,12 @@
 # Amazon Product Performance & Pricing Analysis
 
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Google Colab
+  
 ## Overview
 
 This project explores Amazon product data to understand how pricing strategies, discounts, customer ratings, and review volumes influence product performance.
