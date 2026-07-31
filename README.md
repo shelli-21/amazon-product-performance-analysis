@@ -15,7 +15,7 @@ The analysis focuses on uncovering actionable business insights using Explorator
 
 ---
 
-## Objectives
+## Business Questions
 
 - Analyze product pricing and discount strategies
 - Examine relationships between ratings and review counts
