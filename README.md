@@ -32,7 +32,15 @@ The analysis focuses on uncovering actionable business insights using Explorator
 - Google Colab
 
 ---
+## Visualizations
 
+The project includes charts showing:
+
+- Discount Percentage Distribution
+- Rating Distribution
+- Top Product Categories
+- Price vs Rating Analysis
+- 
 ## Dataset
 
 The dataset contains Amazon product information including:
